@@ -14,11 +14,5 @@
     "projects": [
       2001
     ]
-  },
-  {
-    "id": 1002,
-    "name": "Charlie Brown",
-    "email": "charlie@company.com",
-    "projects": []
   }
 ]

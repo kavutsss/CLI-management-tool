@@ -1,31 +1,30 @@
 [
   {
     "id": 2000,
-    "title": "Website Redesign",
-    "description": "Modernize the company website",
+    "title": "Website Update",
+    "description": "Modernize company website",
     "due_date": "2025-12-31",
     "owner_id": 1000,
     "tasks": [
-      3000,
-      3001
+      3000
     ],
     "contributors": [
       1000
     ],
-    "created_at": "2026-06-15 19:06:59"
+    "created_at": "2026-06-15 19:14:40"
   },
   {
     "id": 2001,
     "title": "Mobile App",
-    "description": "Build cross-platform mobile app",
+    "description": "New mobile application",
     "due_date": "2025-06-30",
     "owner_id": 1001,
     "tasks": [
-      3002
+      3001
     ],
     "contributors": [
       1001
     ],
-    "created_at": "2026-06-15 19:07:08"
+    "created_at": "2026-06-15 19:14:40"
   }
 ]
