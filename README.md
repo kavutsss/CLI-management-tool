@@ -299,6 +299,3 @@ python main.py complete-task 3000
 python main.py get-project 2000
 ```
 
-## Support
-
-For issues or questions, please open an issue on GitHub.
