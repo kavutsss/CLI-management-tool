@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1000,
+    "name": "Alice Johnson",
+    "email": "alice@company.com",
+    "projects": [
+      2000
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "Bob Smith",
+    "email": "bob@company.com",
+    "projects": [
+      2001
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Charlie Brown",
+    "email": "charlie@company.com",
+    "projects": []
+  }
+]
